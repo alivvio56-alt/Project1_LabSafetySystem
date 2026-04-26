@@ -1,9 +1,9 @@
-# 🖥️ Logika & Cara Kerja LCD I2C - Lab Safety System
+# Logika & Cara Kerja LCD I2C - Lab Safety System
 
-Dokumen ini menjelaskan mekanisme bagaimana LCD 16x2 dengan modul I2C bekerja dalam sistem keamanan laboratorium ini, baik dari sisi perangkat keras maupun alur logika pemrogramannya.
+Dokumen ini menjelaskan mekanisme bagaimana LCD 16x2 dengan modul I2C bekerja dalam sistem, baik dari sisi perangkat keras maupun alur logika pemrogramannya.
 
 ## 1. Arsitektur Komunikasi I2C
-Berbeda dengan koneksi LCD paralel standar yang membutuhkan 6-10 kabel, sistem ini menggunakan protokol **I2C (Inter-Integrated Circuit)** yang hanya memerlukan 2 jalur komunikasi utama:
+Sistem ini menggunakan protokol **I2C (Inter-Integrated Circuit)** yang  memerlukan 2 jalur komunikasi utama:
 
 * **SDA (Serial Data Line):** Jalur untuk mengirimkan data karakter dan instruksi.
 * **SCL (Serial Clock Line):** Jalur sinkronisasi data antara Arduino dan LCD.
