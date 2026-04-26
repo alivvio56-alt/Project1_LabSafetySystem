@@ -48,7 +48,7 @@ Push button digunakan untuk mereset atau mematikan sementara alarm. Dalam rangka
 
 Resistor digunakan untuk membatasi arus listrik, terutama pada LED, agar tidak terjadi kerusakan akibat arus berlebih. Dalam rangkaian ini, resistor memastikan LED dapat menyala dengan aman dan stabil.
 
-<img width="474" height="1080" alt="OIP (2)" src="https://github.com/user-attachments/assets/1bfe8395-bccf-4afd-aa47-879bd61fb313" />
+<img width="474" height="281" alt="OIP (2)" src="https://github.com/user-attachments/assets/1bfe8395-bccf-4afd-aa47-879bd61fb313" />
 
 **Breadboard**
 
