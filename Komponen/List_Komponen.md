@@ -1,6 +1,6 @@
 **Komponen yang Digunakan**
 
-![](media/image1.png){width="4.159148075240595in" height="2.6681321084864393in"}
+<img width="474" height="474" alt="Arduio UNO" src="https://github.com/user-attachments/assets/52f4a193-9515-472c-8225-019080f1e426" />
 
 **Arduino UNO**
 
