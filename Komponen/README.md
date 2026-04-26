@@ -55,6 +55,7 @@ Resistor digunakan untuk membatasi arus listrik, terutama pada LED, agar tidak t
 Breadboard berfungsi sebagai tempat merangkai semua komponen tanpa perlu solder. Dalam proyek ini, breadboard memudahkan proses penyusunan dan pengujian rangkaian sebelum dibuat permanen.
 
 <img width="474" height="474" alt="kabel-jumper-male-to-male-dupont-20cm-331193" src="https://github.com/user-attachments/assets/54c12215-9a4d-4708-965e-c59b1c7c5858" />
+
 **Kabel Jumper**
 
 Kabel jumper digunakan untuk menghubungkan antar komponen dalam rangkaian. Kabel ini memungkinkan aliran listrik dan sinyal dari Arduino ke komponen lain seperti sensor, LED, buzzer, dan LCD.
