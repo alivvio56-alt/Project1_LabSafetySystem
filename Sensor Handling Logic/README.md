@@ -1,6 +1,5 @@
 ## Logic Sensor Handling & Input Processing
 
-Bagian ini menjelaskan bagaimana sistem memproses input dari sensor dan interaksi pengguna untuk menentukan status keamanan laboratorium secara *real-time*.
 
 ### 1. Mekanisme Input Analog (ADC)
 Sistem menggunakan pin **A0** sebagai input analog untuk membaca nilai dari sensor (seperti sensor asap atau gas). 
